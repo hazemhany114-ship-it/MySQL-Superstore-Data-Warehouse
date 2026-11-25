@@ -48,7 +48,7 @@ The model uses surrogate keys for dimension tables and foreign key relationships
 
 ### Entity Relationship Diagram
 
-
+![Superstore Data Warehouse ERD](superstore-erd.png)
 
 ## Data Preparation & ETL
 
