@@ -17,7 +17,13 @@ The database is structured using the **Star Schema** dimensional modeling approa
 
 ## Database Design
 
-The database is named `superstore_dw` and contains 8 tables organized as follows:
+The database follows the **Star Schema** dimensional modeling approach.
+
+The following diagram illustrates the database structure and relationships between fact and dimension tables.
+
+### Entity Relationship Diagram (ERD)
+
+![Superstore Data Warehouse ERD](superstore-erd.png)
 
 ### Fact Tables
 
